@@ -1,7 +1,7 @@
-###  Hi World, I am Chopin :camel:
+###  Hi World, I am Chopin 🐒
 ###  Web Developer | Cyber Security
 
-<img src="https://media.giphy.com/media/l0HlGdzRQklT3h1Nm/giphy.gif">
+<img src="https://media.giphy.com/media/UTFpFheTbCvfDX6L0o/giphy.gif">
 
 <font color="#A52A2A">My name is Mert i love camels i am a high school student in Turkey</font>
 
