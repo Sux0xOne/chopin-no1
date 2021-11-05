@@ -1,7 +1,7 @@
 ###  Hi World, I am Chopin 🐒
 ###  Web Developer | Cyber Security
 
-<img src="https://media.giphy.com/media/UTFpFheTbCvfDX6L0o/giphy.gif">
+<img src="https://giphy.com/gifs/afvpets-afv-kLLvH1EOtCwQ8">
 
 <font color="#A52A2A">My name is Mert i love monkeys i am a high school student in Turkey</font>
 
