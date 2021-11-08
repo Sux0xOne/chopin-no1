@@ -6,4 +6,4 @@
 <font color="#A52A2A">My name is Mert i love monkeys i am a high school student in Turkey</font>
 
 ### Reach out to me
-<font>On</font><a href="https://discordapp.com/users/881363639653785621"> Discord </a>
+<font>On</font><a href="https://discordapp.com/users/902567257119547432"> Discord </a>
